@@ -34,7 +34,7 @@ Authentication is a bit anoying in linux. You'll have to do the following:
 
 1. Generate a **P**ersonal**A**ccess**T**oken.
     1. Follow [this link](https://github.com/settings/tokens)
-    2. Create a new classic token: ![Create new token](.attachments/image.png)
+    2. Create a new classic token: ![Create new token](.attachments/create-pat.png)
     3. Set the expiration date to something reasonably long and click all the boxes.
     4. Click "Generate Token" and copy that token to your clipboard
 2. Add the token
@@ -49,4 +49,13 @@ Unfortunately git is not installed on the VMs. The only way good way to sync you
 # Github workflow and permissions
 
 On github there is always one branch which acts as the default or common branch that contains the most recent working/approved version. By default no one is allowed to change this branch directly. Instead any changes you make have to be made to your own branch (or someone else's branch if you are working together). You can then create a "Pull request" to have your changes added to the main branch.
+
+Creating a pull request:
+1. Go to "Pull Requests" and click "New pull request" ![Create a new PR](.attachments/create-pr-steps.png)
+2. Select "master" as the "base" and your branch as "compare" ![Select your branch](.attachments/create-pr-select-compare.png)
+3. You'll now see all the changes you made in comparison to the main branch.
+4. Click "Create pull request" and give it a name. If its a complex change describe what you have done and why
+
+Now the pull request exists. However it cannot be completed until one other member of the society approves the changes:
+![Completion blocked](.attachments/blocked-pr-completion.png). So at this step you should post your PR in the discord and wait for someone to go over your changes and approve them.
 
