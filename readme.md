@@ -19,3 +19,10 @@ The folder structure is the following:
 
 ## Getting started
 Have a look at the [How to use Git](./docs/how-to-use-git.md) guide. Guides on how to use the solidworks, 3d printing, etc. will be added soon.
+
+## Rockets
+
+- Colander
+- Fork
+- Spoon
+- Ladel
