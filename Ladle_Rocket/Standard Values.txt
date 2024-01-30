@@ -1,0 +1,10 @@
+﻿"TubeOutsideDiameter"= 52
+"TubeInnerDiameter"= 47.8
+"ReleaseMechanisumHeight"=100
+"WireDiameter"=3.38983
+"servoHoleDiameter" = 2.8
+"CordDiameter"= 5
+"MountingBoldDiameter"=2.8
+"TubeMountingBoltDiameter" = 5
+"CardTubeOutsideDiameter"= 54.2
+"CardTubeInsideDiameter"= 50.4
