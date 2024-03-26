@@ -1,7 +1,7 @@
-﻿"TubeOutsideDiameter"= 52
+﻿"TubeOutsideDiameter"= 50.2
 "TubeInnerDiameter"= 47.8
 "ReleaseMechanisumHeight"=100
-"WireDiameter"=3.38983
+"WireDiameter"=1.65
 "servoHoleDiameter"= 2.8
 "CordDiameter"= 5
 "MountingBoldDiameter"=2.8
